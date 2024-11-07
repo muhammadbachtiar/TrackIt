@@ -7,7 +7,7 @@ const AppHeader = () => {
               <img src="assets/logo.png" className="h-12" alt="Logo" />
               <div className="flex flex-col">
                   <span className="self-start text-xl font-bold whitespace-nowrap dark:text-white">TrackIt</span>
-                  <span className="self-start text-sm font-medium whitespace-nowrap dark:text-white">Indonesia Tourism</span>
+                  <span className="self-start text-sm font-medium whitespace-nowrap dark:text-white">Stay on Track with Every Transaction</span>
               </div>
           </a>
           <div id="mega-menu" className="items-center justify-between hidden w-full md:flex md:w-auto md:order-1">
